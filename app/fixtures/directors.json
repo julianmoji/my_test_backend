@@ -1,0 +1,1 @@
+[{"model": "app.director", "pk": 1, "fields": {"name": "George Lucas"}}, {"model": "app.director", "pk": 2, "fields": {"name": "Irvin Kershner"}}, {"model": "app.director", "pk": 3, "fields": {"name": "Richard Marquand"}}]

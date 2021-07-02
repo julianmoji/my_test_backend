@@ -1,0 +1,1 @@
+[{"model": "app.producer", "pk": 1, "fields": {"name": "Gary Kurtz"}}, {"model": "app.producer", "pk": 2, "fields": {"name": "Rick McCallum"}}, {"model": "app.producer", "pk": 3, "fields": {"name": "George Lucas"}}, {"model": "app.producer", "pk": 4, "fields": {"name": "Howard G. Kazanjian"}}]
